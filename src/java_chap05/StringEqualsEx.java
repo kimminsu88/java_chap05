@@ -3,7 +3,10 @@ package java_chap05;
 public class StringEqualsEx {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String strVar1 = "Ω≈πŒ√∂";
+		String strVar2 = "Ω≈πŒ√∂";
+		
+		
 
 	}
 

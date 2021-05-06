@@ -40,6 +40,7 @@ public class ReferenceTypeEx {
 		else {
 		     System.out.println("str3의 값과 str4의 값은 다릅니다.");
 		}
+//     String 타입의 변수 str3과 str4가 가지고 있는 실제 데이터를 비교할 수 있음
 		if (str3.equals(str4)) {
 			 System.out.println("str3의 값과 str4의 값은 같습니다.");
 		}
